@@ -1,0 +1,30 @@
+c:\users\nikita\documents\visual studio 2012\Projects\HashcatManager\HashcatManager\bin\Debug\HashcatManager.exe.config
+c:\users\nikita\documents\visual studio 2012\Projects\HashcatManager\HashcatManager\bin\Debug\HashcatManager.exe
+c:\users\nikita\documents\visual studio 2012\Projects\HashcatManager\HashcatManager\bin\Debug\HashcatManager.pdb
+c:\users\nikita\documents\visual studio 2012\Projects\HashcatManager\HashcatManager\obj\Debug\HashcatManager.csprojResolveAssemblyReference.cache
+c:\users\nikita\documents\visual studio 2012\Projects\HashcatManager\HashcatManager\obj\Debug\HashcatManager.Form1_Main.resources
+c:\users\nikita\documents\visual studio 2012\Projects\HashcatManager\HashcatManager\obj\Debug\HashcatManager.Properties.Resources.resources
+c:\users\nikita\documents\visual studio 2012\Projects\HashcatManager\HashcatManager\obj\Debug\HashcatManager.csproj.GenerateResource.Cache
+c:\users\nikita\documents\visual studio 2012\Projects\HashcatManager\HashcatManager\obj\Debug\HashcatManager.exe
+c:\users\nikita\documents\visual studio 2012\Projects\HashcatManager\HashcatManager\obj\Debug\HashcatManager.pdb
+C:\Users\Nikita\Desktop\HashcatManager\HashcatManager\bin\Debug\HashcatManager.exe.config
+C:\Users\Nikita\Desktop\HashcatManager\HashcatManager\obj\Debug\HashcatManager.exe
+C:\Users\Nikita\Desktop\HashcatManager\HashcatManager\obj\Debug\HashcatManager.pdb
+C:\Users\Nikita\Desktop\HashcatManager\HashcatManager\bin\Debug\HashcatManager.exe
+C:\Users\Nikita\Desktop\HashcatManager\HashcatManager\bin\Debug\HashcatManager.pdb
+C:\Users\Nikita\Desktop\HashcatManager\HashcatManager\obj\Debug\HashcatManager.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\Desktop\HashcatManager\HashcatManager\obj\Debug\HashcatManager.Form1_Main.resources
+C:\Users\Nikita\Desktop\HashcatManager\HashcatManager\obj\Debug\HashcatManager.Properties.Resources.resources
+C:\Users\Nikita\Desktop\HashcatManager\HashcatManager\obj\Debug\HashcatManager.csproj.GenerateResource.Cache
+C:\Users\Nikita\Desktop\HashcatManager\HashcatManager\obj\Debug\HashcatManager.Form2_Type.resources
+C:\Other\С#\Проекты\HashcatManager\HashcatManager\bin\Debug\HashcatManager.exe.config
+C:\Other\С#\Проекты\HashcatManager\HashcatManager\obj\Debug\HashcatManager.exe
+C:\Other\С#\Проекты\HashcatManager\HashcatManager\obj\Debug\HashcatManager.pdb
+C:\Other\С#\Проекты\HashcatManager\HashcatManager\bin\Debug\HashcatManager.exe
+C:\Other\С#\Проекты\HashcatManager\HashcatManager\bin\Debug\HashcatManager.pdb
+C:\Other\С#\Проекты\HashcatManager\HashcatManager\obj\Debug\HashcatManager.Form1_Main.resources
+C:\Other\С#\Проекты\HashcatManager\HashcatManager\obj\Debug\HashcatManager.Form2_Type.resources
+C:\Other\С#\Проекты\HashcatManager\HashcatManager\obj\Debug\HashcatManager.Properties.Resources.resources
+C:\Other\С#\Проекты\HashcatManager\HashcatManager\obj\Debug\HashcatManager.csproj.GenerateResource.Cache
+C:\Other\С#\Проекты\HashcatManager\HashcatManager\obj\Debug\HashcatManager.csprojAssemblyReference.cache
+C:\Other\С#\Проекты\HashcatManager\HashcatManager\obj\Debug\HashcatManager.csproj.CoreCompileInputs.cache
